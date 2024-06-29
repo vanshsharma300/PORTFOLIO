@@ -17,9 +17,14 @@ const NavBar = () => {
         </Link> 
        </div>
       <div className="flex text-2xl gap-4">
-       <FaLinkedin  className="hover:text-slate-100"/>
-        <FaGithub className="hover:text-slate-100"/>
-        <FaSquareXTwitter className="hover:text-slate-100"/>
+        <a  href="https://www.linkedin.com/in/vansh-sharma-93981027b/"><FaLinkedin  className="hover:text-slate-100" /></a>
+       <a href="https://github.com/vanshsharma300">
+        <FaGithub className="hover:text-slate-100"/> 
+        </a>
+        <a href="">
+           <FaSquareXTwitter className="hover:text-slate-100"/>
+        </a>
+        
       </div>
     </nav>
     
