@@ -6,7 +6,7 @@ import { RiNodejsLine } from "react-icons/ri";
 
 const Technologies = () => {
   return (
-    <div className=" border-b border-neutral-800 pb-[214px] md:pb-[338px] mx-5">
+    <div className=" border-b border-neutral-800 pb-[180px] md:pb-[338px] mx-5">
       <h1 className="my-20 text-center text-4xl">Technologies</h1>
       <div className="flex flex-wrap items-center justify-center gap-4">
          

@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className=" border-b border-neutral-900 md:pb-[100px]  mx-4 pb-2">
+    <div className=" border-b border-neutral-900 md:pb-[100px]  mx-4 pb-4">
       <h2 className=" my-10 text-center text-4xl">
         About
         <span className="text-neutral-500"> Me</span>
@@ -23,7 +23,8 @@ const About = () => {
               I am a dedicated and versatile full stack developer with a passion
               for creating efficient and user-friendly web applications. With 5
               years of professional experience, I have worked with a variety of
-              technologies, including React, Next.js, Node.js, MySQL, PostgreSQL and MongoDB.
+              technologies, including React, Next.js, Node.js, MySQL, PostgreSQL
+              and MongoDB.
             </p>
           </div>
         </div>
